@@ -1,2 +1,23 @@
 # OpenAPI_v3_Testing
-This is part of my ongoing learning journey into API security. Here, I explore vulnerabilities in the VAmPI OpenAPI v3 specification, practice identifying vulnerabilities like Excessive Data Exposure, Mass Assignment, and BOLA and apply hands-on testing techniques.
+This repository contains the OpenAPI v3 specification (`openapi3.yaml`) for the VAmPI project used in my API security exploration and vulnerability testing.
+
+## Contents
+- `openapi3.yaml` — OpenAPI v3 spec file for VAmPI
+
+## How to Use
+1. Import `openapi3.yaml` into Swagger Editor or Postman to explore the API.
+2. Use the provided Postman collection to simulate API requests.
+3. Refer to my blog for detailed findings and vulnerability analysis.
+
+## Findings
+- Excessive Data Exposure
+- Mass Assignment
+- Broken Object Level Authorization (BOLA)
+
+Feel free to explore and contribute!
+
+---
+
+[Read my full API security write-up on Medium](https://medium.com/@kivutingatha/exploring-api-security-identifying-api-vulnerabilities-in-the-vampi-openapi-v3-specification-b452e40e9537)
+
+
