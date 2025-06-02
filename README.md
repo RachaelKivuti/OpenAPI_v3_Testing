@@ -1,11 +1,11 @@
 # OpenAPI_v3_Testing
-This repository contains the OpenAPI v3 specification (`openapi3.yaml`) for the VAmPI project used in my API security exploration and vulnerability testing.
+This repository contains the OpenAPI v3 specification (`openapi3.yml`) for the VAmPI project used in my API security exploration and vulnerability testing.
 
 ## Contents
-- `openapi3.yaml` — OpenAPI v3 spec file for VAmPI
+- `openapi3.yml` — OpenAPI v3 spec file for VAmPI
 
 ## How to Use
-1. Import `openapi3.yaml` into Swagger Editor or Postman to explore the API.
+1. Import `openapi3.yml` into Swagger Editor or Postman to explore the API.
 2. Use the provided Postman collection to simulate API requests.
 3. Refer to my blog for detailed findings and vulnerability analysis.
 
