@@ -18,6 +18,6 @@ Feel free to explore and contribute!
 
 ---
 
-[Read my full API security write-up on Medium](https://medium.com/@kivutingatha/exploring-api-security-identifying-api-vulnerabilities-in-the-vampi-openapi-v3-specification-b452e40e9537)
+[Read my full write-up on Medium](https://medium.com/@kivutingatha/exploring-api-security-identifying-api-vulnerabilities-in-the-vampi-openapi-v3-specification-b452e40e9537)
 
 
